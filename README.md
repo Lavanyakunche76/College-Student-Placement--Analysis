@@ -51,11 +51,6 @@ The dataset contains the following columns:
 
 ---
 
-## 📊 Power BI Dashboard Preview
-
-> (Insert a screenshot of your dashboard here if you'd like)
-
----
 
 ## 🧠 How to Use This Project
 
